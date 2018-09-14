@@ -1,4 +1,4 @@
-modules.exports =  function setWorkerInterval(fn, interval) {
+module.exports =  function setWorkerInterval(fn, interval) {
   const blob = new Blob([`
   let timer
   onmessage = function (e) {
