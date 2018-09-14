@@ -1,0 +1,19 @@
+{
+  "name": "set-worker-interval",
+  "version": "1.0.0",
+  "description": "use WebWorker impl setInterval",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuyixiang9/set-worker-interval.git"
+  },
+  "keywords": [],
+  "author": "wu.yixiang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wuyixiang9/set-worker-interval/issues"
+  },
+  "homepage": "https://github.com/wuyixiang9/set-worker-interval#readme"
+}
