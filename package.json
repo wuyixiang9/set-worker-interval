@@ -1,6 +1,6 @@
 {
   "name": "set-worker-interval",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "use WebWorker impl setInterval",
   "main": "index.js",
   "scripts": {
